@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryWebApi", "InventoryWebApi\InventoryWebApi.csproj", "{567371FA-802F-40E0-BCAC-49F47D259C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryWebApi.Tests", "InventoryWebApi.Tests\InventoryWebApi.Tests.csproj", "{DE961E3F-FCBC-4851-87BE-F9643B016FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567371FA-802F-40E0-BCAC-49F47D259C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567371FA-802F-40E0-BCAC-49F47D259C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567371FA-802F-40E0-BCAC-49F47D259C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567371FA-802F-40E0-BCAC-49F47D259C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE961E3F-FCBC-4851-87BE-F9643B016FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE961E3F-FCBC-4851-87BE-F9643B016FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE961E3F-FCBC-4851-87BE-F9643B016FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE961E3F-FCBC-4851-87BE-F9643B016FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
